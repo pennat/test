@@ -11,6 +11,7 @@ func main() {
 
 	fmt.Println("Введите сторону b")
 	fmt.Scanln(&b)
+	
 
 	fmt.Println("Площадь прямоугольника:", a*b)
 }
